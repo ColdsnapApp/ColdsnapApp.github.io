@@ -8,11 +8,11 @@ body {
 
 body {
   background-image: url("action.jpg");
-	background-position: center bottom;
+  background-position: center bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #ffffff;
-	background-size: auto 1280px;
+  background-size: auto 1280px;
 }
 
 #ijjxim {
@@ -20,8 +20,8 @@ body {
 }
 
 #irj1fv {
-width: 90%;
-max-width: 500px;
+  width: 90%;
+  max-width: 500px;
   border-radius: 8px;
 }
 
@@ -53,12 +53,6 @@ max-width: 500px;
   font-size: 32px;
 }
 
-#i6pvsl {
-  width: 421px;
-  height: 527px;
-  border-radius: 8px;
-}
-
 #i8brvu {
   font-size: 32px;
 }
@@ -81,18 +75,15 @@ max-width: 500px;
   font-size: 20px;
 }
 
-#copyright{
-	text-align: center;
+#copyright {
+  text-align: center;
 }
 
 .panel {
-  	width: 90%;
-	min-width: 500px;
+  width: 90%;
+  min-width: 500px;
   max-width: 700px;
-  border-top-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-  border-bottom-left-radius: 3px;
+  border-radius: 10px;
   padding-top: 30px;
   padding-right: 20px;
   padding-bottom: 30px;
@@ -122,17 +113,17 @@ max-width: 500px;
 }
 
 .big-title {
-	text-align: center;
-	font-size: 56px;
-	margin-top: 15px;
-	margin-right: 0px;
-	margin-bottom: 15px;
-	margin-left: 0px;
+  text-align: center;
+  font-size: 56px;
+  margin-top: 15px;
+  margin-right: 0px;
+  margin-bottom: 15px;
+  margin-left: 0px;
 }
 
 .description {
-	font-size: 20px;
-	font-weight: bold;
+  font-size: 20px;
+  font-weight: bold;
   text-align: justify;
   line-height: 1.5rem;
   float: none;
@@ -144,15 +135,14 @@ max-width: 500px;
 
 .gif1 {
   width: 90%;
-max-width: 500px;
+  max-width: 500px;
   border-radius: 8px;
 }
 
 .panel.top {
-	width: 90%;
-	min-width: 500px
-  max-width: 700px;
-  border-radius: 8px;
+  width: 90%;
+  min-width: 500px max-width: 700px;
+  border-radius: 10px;
 }
 
 .c14175 {
