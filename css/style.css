@@ -88,7 +88,7 @@ body {
   padding-right: 20px;
   padding-bottom: 30px;
   padding-left: 20px;
-  margin-top: 150px;
+  margin-top: 20px;
   margin-right: auto;
   margin-bottom: 0px;
   margin-left: auto;
@@ -140,7 +140,7 @@ body {
 }
 
 .panel.top {
-  width: 90%;
+  width: 96%;
   min-width: 500px max-width: 700px;
   border-radius: 10px;
 }
