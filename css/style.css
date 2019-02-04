@@ -126,6 +126,8 @@ body {
   font-weight: bold;
   text-align: justify;
   line-height: 1.5rem;
+  padding-left: 20px;
+  padding-right: 20px;
   float: none;
 }
 
