@@ -81,7 +81,7 @@ body {
 
 .panel {
   width: 96%;
-  min-width: 500px;
+  min-width: 300px;
   max-width: 700px;
   border-radius: 10px;
   padding-top: 30px;
@@ -122,8 +122,8 @@ body {
 }
 
 .description {
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 18px;
+  font-weight: normal;
   text-align: justify;
   line-height: 1.5rem;
   padding-left: 20px;
@@ -150,7 +150,7 @@ body {
 
 .panel.top {
   width: 96%;
-  min-width: 500px;
+  min-width: 300px;
   max-width: 700px;
   border-radius: 10px;
 }
