@@ -8,6 +8,8 @@ body {
 
 body {
   background-image: url("action.jpg");
+  /* overflow: hidden; */
+  /* -webkit-overflow-scrolling: touch; */
   background-position: center top;
   background-repeat: no-repeat;
   background-attachment: fixed;
